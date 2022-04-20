@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB7B7A</color>
+    <color name="colorFont">#FDFAEA</color>
+    <color name="colorAccent">#DB7B7A</color>
+    <color name="chipColor">#F09392</color>
+    <color name="colorLine">#E8E3CF</color>
+    <color name="colorTab">#F2EFE2</color>
+    <color name="colorRed">#70FDE8</color>
+</resources>
